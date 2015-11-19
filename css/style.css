@@ -87,16 +87,16 @@
 .btn-tomato-dark:hover {
 	background: #ff805f none;
 }
-.btn-turquoise,
-.btn-turquoise:focus, 
-.btn-turquoise:active,
-.btn-turquoise.active, 
-.btn-turquoise.disabled, 
-.btn-turquoise[disabled] {
-	background: #24afaa none;
+.btn-jellyfish,
+.btn-jellyfish:focus, 
+.btn-jellyfish:active,
+.btn-jellyfish.active, 
+.btn-jellyfish.disabled, 
+.btn-jellyfish[disabled] {
+	background: #e2614d none;
 	color: #fff;
 }
-.btn-turquoise:hover {
+.btn-jellyfish:hover {
 	background: #3EC9C4 none;
 }
 .btn-transparent,
@@ -139,7 +139,7 @@ body {
 	padding-top: 80px;
 }
 a {
-	color: #24afaa;
+	color: #e2614d;
 }
 a:hover {
 	color: #50bfbb;
