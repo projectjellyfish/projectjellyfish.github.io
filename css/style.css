@@ -605,7 +605,7 @@ body {
 	animation-iteration-count:infinite;
 	animation-timing-function:linear;
 
-	background: url('../images/bg-jf.jpg') no-repeat center center;
+	background: url('../images/bg-jf-2.png') no-repeat center center;
 }
 @-webkit-keyframes rotate {
   from { -webkit-transform:rotate(-180deg);}
